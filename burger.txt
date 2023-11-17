@@ -1,5 +1,5 @@
-steak
-salade
+poulet
+avocat
 tomate
-cornichon
+salade
 fromage
